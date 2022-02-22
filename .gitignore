@@ -1,2 +1,7 @@
-*.css
-*.java
+.pydevproject
+.project
+*.pyc
+.DS_Store
+log.html
+output.xml
+report.html
